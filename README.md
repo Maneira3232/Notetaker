@@ -7,7 +7,7 @@
 This App will allow you to create notes for yourself so you never forget anything !
 
 ## Screenshot
-![Notetaker webpage](./assets/screenshot.png)
+![Notetaker webpage](.\public\assets\css\images\screenshotfornotes.png.png)
 
 ## Contributors
 
